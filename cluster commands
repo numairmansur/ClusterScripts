@@ -25,3 +25,5 @@ How does it work ----------------------
 ---------------------------------------
 
 You make the virtual environment in the startup script
+then it think you just send another script which contains how many times you want to run the python script
+but will the virtual environment activated in one script, still be working when the other script is running ?
