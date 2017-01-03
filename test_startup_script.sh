@@ -1,11 +1,11 @@
 #!/bin/bash
 
 #redirect the output to the following file:
-#$ -o /home/kleinaa/output 
+#$ -o /home/mansurm/output 
 
 
 #redirect the error messages to the following file:
-#$ -e /home/kleinaa/output
+#$ -e /home/mansurm/output
 
 
 echo "hello from job script!"
