@@ -14,11 +14,6 @@ echo JOB_NAME=$JOB_NAME
 echo HOSTNAME=$HOSTNAME
 echo SGE_TASK_ID=$SGE_TASK_ID
 
-echo "hello from job script!"
-echo "the date is" `date`
-echo "here's /etc/hosts contents:"
-echo "my name is numair"
-echo "finishing job :D"
 
-
-# activate the virtual environment here
+# activate the virtual environment:
+source spearmintlite/bin/activate
