@@ -8,5 +8,5 @@
 #$ -e /home/mansurm/output
 
 echo "running python script now:"
-python /home/mansurm/ClusterScripts/testPython.py
+# python /home/mansurm/ClusterScripts/testPython.py
 echo "runnin successful"
