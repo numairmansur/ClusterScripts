@@ -1,1 +1,1 @@
-python testPython.py
+python /home/mansurm/ClusterScripts/testPython.py
