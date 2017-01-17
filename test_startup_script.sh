@@ -16,4 +16,5 @@ echo SGE_TASK_ID=$SGE_TASK_ID
 
 
 # activate the virtual environment:
+# python export
 source spearmintlite/bin/activate
