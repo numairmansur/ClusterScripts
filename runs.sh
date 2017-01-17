@@ -215,4 +215,3 @@ python spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChoo
 python spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 Experiments/sin_two/sin_two28/config.pb
 python spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 Experiments/sin_two/sin_two29/config.pb
 python spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 Experiments/sin_two/sin_two30/config.pb
-
