@@ -1,0 +1,41 @@
+To login to the main machine:
+ssh mansurm@aadpoola.informatik.uni-freiburg.de
+
+
+To login to a meta machine:
+ssh metasub3
+
+It is always better to connect to metasub3 because it have internet access.
+From a meta machine you submit jobs to the meta core with the help of qsub.
+jobs are prioritized autmatically
+
+Command to check the status of jobs at meta core:
+qstat -q meta_core.q -f
+
+
+Command to do something else:
+qstat -f
+
+Connect to the test_core: (You can test your scripts from here but don#t run the commands that are too long):
+qlogin -q test_core.q
+
+
+---------------------------------------
+How does it work ----------------------
+---------------------------------------
+
+You make the virtual environment in the startup script
+then i think you just send another script which contains how many times you want to run the python script
+but will the virtual environment activated in one script, still be working when the other script is running ?
+
+
+Next steps:
+
+Don't need a srart-up script for that !!!!!
+-------------------------------------------------
+make the virtual environment.
+install everything in the virtual environment.
+-------------------------------------------------
+
+activate the virtual environment
+start running the tests.
