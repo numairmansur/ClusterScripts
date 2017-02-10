@@ -1,13 +1,1 @@
-python /home/mansurm/spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 /home/mansurm/Experiments/rosenbrock/rosenbrock6/config.pb
-python /home/mansurm/spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 /home/mansurm/Experiments/rosenbrock/rosenbrock8/config.pb
-python /home/mansurm/spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 /home/mansurm/Experiments/rosenbrock/rosenbrock23/config.pb
-python /home/mansurm/spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 /home/mansurm/Experiments/rosenbrock/rosenbrock27/config.pb
-python /home/mansurm/spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 /home/mansurm/Experiments/rosenbrock/rosenbrock32/config.pb
-python /home/mansurm/spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 /home/mansurm/Experiments/rosenbrock/rosenbrock42/config.pb
-python /home/mansurm/spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 /home/mansurm/Experiments/rosenbrock/rosenbrock46/config.pb
-python /home/mansurm/spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 /home/mansurm/Experiments/rosenbrock/rosenbrock47/config.pb
-python /home/mansurm/spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 /home/mansurm/Experiments/rosenbrock/rosenbrock50/config.pb
-python /home/mansurm/spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 /home/mansurm/Experiments/rosenbrock/rosenbrock53/config.pb
-python /home/mansurm/spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 /home/mansurm/Experiments/Bohachevsky/bohachevsky19/config.pb
-python /home/mansurm/spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 /home/mansurm/Experiments/goldstein_price/goldstein_price27/config.pb
-python /home/mansurm/spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 /home/mansurm/Experiments/goldstein_price/goldstein_price36/config.pb
+python /home/mansurm/spearmint/spearmint/spearmint/main.py --driver=local --method=GPEIOptChooser --method-args=noiseless=1 /home/mansurm/Experiments/sin_two/sin_two25/config.pb
